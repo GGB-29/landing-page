@@ -1,5 +1,6 @@
 # landing-page
 
+Note: All characters included are owned by 日向夏.
 
 Image credit:
  -Logo image: peanutawesome via DeviatArt; https://www.deviantart.com/peanutawesome/favourites/97720715/the-apothecary-diaries?page=2
